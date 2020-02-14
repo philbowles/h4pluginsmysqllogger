@@ -17,8 +17,8 @@ CREATE TABLE `event` (
 */
 const con = mysql.createConnection({
   host: "localhost",
-  user: "phil",
-  password: "CanonD60",
+  user: "XXXX",
+  password: "XXXX",
   database: "h4"
 });
 
